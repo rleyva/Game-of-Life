@@ -1,0 +1,9 @@
+[package]
+name = "conway-gpu"
+version = "0.1.0"
+authors = ["Ralph Leyva <ralphfleyva@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+glium ="*"
+rand = "0.6.1"
